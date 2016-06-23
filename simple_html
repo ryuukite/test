@@ -1,8 +1,6 @@
-
-
 <html>
 <head>
 This is html. 
-<script src = "<~/dev/node-test/index.js>"></script> 
+<script src = "<index.js>"></script> 
 </head>
 </html>

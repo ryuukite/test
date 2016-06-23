@@ -3,5 +3,6 @@
 <html>
 <head>
 This is html. 
+<script src = "<~/dev/node-test/index.js> <script> 
 </head>
 </html>

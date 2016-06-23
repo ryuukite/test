@@ -1,8 +1,8 @@
 <html>
 <head>
 This is html.
+</head>
 <body> 
 <script src = "index.js"></script>
 </body> 
-</head>
 </html>
